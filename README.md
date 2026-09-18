@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Aakanksha Bajpai
 
-### 💻 3rd Year B.Tech CSD Student | Developer | Problem Solver
+### 💻 3rd Year B.Tech CSE(AI&ML) Student | Developer | Problem Solver
 
-I'm a passionate **Computer Science & Design (CSD) student** currently in my **3rd year of B.Tech**, interested in software development and building practical projects.
+I'm a passionate **Computer Science & Design CSE(AI&ML) student** currently in my **3rd year of B.Tech**, interested in software development and building practical projects.
 
 I enjoy learning new technologies, solving programming problems, and improving my development skills. Currently, I'm focusing on **Frontend Development** while strengthening my programming and problem-solving abilities.
 
@@ -10,11 +10,11 @@ I enjoy learning new technologies, solving programming problems, and improving m
 
 ## 🚀 About Me
 
-- 🎓 3rd Year **B.Tech – Computer Science & Design (CSD)** Student
+- 🎓 3rd Year **B.Tech – Computer Science & Design CSE(AI&ML)** Student
 - 💻 Interested in **Software Development**
 - 🌱 Currently learning **Frontend Development**
 - 🧠 Strong interest in **Problem Solving & Logical Thinking**
-- 🔥 Comfortable with **C, Java & Python**
+- 🔥 Comfortable with **C, Java & Python** html css
 - 🛠️ Interested in building real-world projects
 - 📚 Always learning and exploring new technologies
 - 🎯 Goal: Become a skilled and versatile software developer
