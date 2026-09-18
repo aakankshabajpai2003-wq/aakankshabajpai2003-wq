@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm AAKANKSHA BAJPAI
 
 ### 💻 3rd Year B.Tech CSD Student | Developer | Problem Solver
 
