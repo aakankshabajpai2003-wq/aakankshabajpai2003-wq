@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Aakanksha Bajpai
+# 👋 Hi, I'm [Your Name]
 
-### 💻 3rd Year B.Tech CSE(AI&ML) Student | Developer | Problem Solver
+### 💻 3rd Year B.Tech CSD Student | Developer | Problem Solver
 
-I'm a passionate **Computer Science & Design CSE(AI&ML) student** currently in my **3rd year of B.Tech**, interested in software development and building practical projects.
+I'm a passionate **Computer Science & Design CSE(AIML) student** currently in my **3rd year of B.Tech**, interested in software development and building practical projects.
 
 I enjoy learning new technologies, solving programming problems, and improving my development skills. Currently, I'm focusing on **Frontend Development** while strengthening my programming and problem-solving abilities.
 
@@ -10,11 +10,11 @@ I enjoy learning new technologies, solving programming problems, and improving m
 
 ## 🚀 About Me
 
-- 🎓 3rd Year **B.Tech – Computer Science & Design CSE(AI&ML)** Student
+- 🎓 3rd Year **B.Tech – Computer Science & Design CSE(AIML)** Student
 - 💻 Interested in **Software Development**
 - 🌱 Currently learning **Frontend Development**
 - 🧠 Strong interest in **Problem Solving & Logical Thinking**
-- 🔥 Comfortable with **C, Java & Python** html css
+- 🔥 Comfortable with **C, Java & Python**
 - 🛠️ Interested in building real-world projects
 - 📚 Always learning and exploring new technologies
 - 🎯 Goal: Become a skilled and versatile software developer
@@ -99,19 +99,3 @@ I enjoy learning new technologies, solving programming problems, and improving m
 ✔ Become proficient in Frontend Development
 ✔ Contribute to Open Source
 ✔ Keep learning and growing as a developer
-
-<!--
-**aakankshabajpai2003-wq/aakankshabajpai2003-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
