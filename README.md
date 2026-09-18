@@ -1,6 +1,9 @@
 # 👋 Hi, I'm AAKANKSHA BAJPAI
 
-### 💻 3rd Year B.Tech CSD Student | Developer | Problem Solver
+### 💻 3rd Year B.Tech CSE(AIML)
+
+
+Student | Developer | Problem Solver
 
 I'm a passionate **Computer Science & Design CSE(AIML) student** currently in my **3rd year of B.Tech**, interested in software development and building practical projects.
 
